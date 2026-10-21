@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://todd0042.itch.io/tiki-karaoke-lounge">
-    <strong>👉 Click Here to Get Tiki Karaoke Lounge on itch.io ($14.99) 👈</strong>
+    <strong>👉 Click Here to Get Tiki Karaoke Lounge on itch.io 👈</strong>
   </a>
 </p>
 
@@ -85,7 +85,7 @@
 
 ## 📦 Download Packages Available on itch.io
 
-Every purchase grants lifetime access to **both Windows & Linux** standalone packages:
+Every purchase grants lifetime access to standalone packages:
 
 | Platform | Format | Description |
 | :--- | :--- | :--- |
@@ -114,5 +114,4 @@ Tiki Karaoke Lounge includes a **Perpetual Single-Seat Commercial License** with
 ## 🔗 Official Links & Community
 
 - 🛒 **Storefront & Downloads**: [https://todd0042.itch.io/tiki-karaoke-lounge](https://todd0042.itch.io/tiki-karaoke-lounge)
-- 🐛 **Bug Reports & Feature Requests**: [Open a GitHub Issue](https://github.com/Todd0042/tiki-karaoke-lounge/issues)
 - 🌴 **Developed by**: [Todd0042](https://github.com/Todd0042)
