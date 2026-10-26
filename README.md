@@ -10,8 +10,8 @@
     <img src="https://img.shields.io/badge/itch.io-GET_IT_ON_ITCH.IO-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Available on itch.io">
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows_%7C_Linux_%7C_SteamDeck-00f0ff?style=for-the-badge" alt="Platforms">
-  <img src="https://img.shields.io/badge/Version-v1.0.0-39ff14?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/License-Commercial_Single--Seat-ffb703?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/Version-v1.0.3-39ff14?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Edition-Home_%26_Party-ff2a85?style=for-the-badge" alt="Edition">
 </p>
 
 <p align="center">
@@ -32,25 +32,26 @@
 
 ### 📱 Smartphone Joining (Zero App Store Downloads)
 - **Zero Friction**: Guests scan the on-screen TV QR code with their phone cameras.
-- **Instant Web App**: Runs directly in their mobile browser with no App Store or Google Play downloads required.
-- **Custom Singer Profiles**: Guests pick a tropical avatar (🌺, 🌴, 🍹, 🦜, 🏄) and enter their name.
+- **Instant Web App**: Runs directly in any mobile browser (Safari, Chrome, Edge) with no App Store or Google Play downloads required.
+- **Custom Singer Profiles**: Guests pick a tropical avatar (🌺, 🌴, 🍹, 🦜, 🏄) and enter their nickname.
 - **Smart Queueing**: Search downloaded songs, request duets, adjust pitch/key, and see live queue position in real time.
 
 ### 📺 Cinematic Dual-Display TV Stage
-- **Automatic HDMI Detection**: Connect your TV or projector; Tiki Karaoke automatically handles dual screens.
-- **Synchronized Scrolling Lyrics**: Full-screen, borderless stage display with retro synthwave aesthetics.
-- **Crowd Reactions**: Guests tap emojis (🔥, 🍹, 🌴, 👏, 🌺, 🍻) on their phones that float live across the main TV stage.
-- **Always-On QR Overlay**: New guests can walk in and scan to join at any point during the party.
+- **Automatic HDMI Detection**: Connect your TV or projector; Tiki Karaoke automatically detects secondary screens and launches full-screen borderless (`F11`).
+- **Synchronized Scrolling Lyrics**: High-contrast, crystal-clear lyrics styled with vibrant retro neon tiki aesthetics.
+- **Crowd Hype Reactions**: Guests tap emojis (🔥, 🍹, 🌴, 👏, 🌺, 🍻) on their phones that float live across the main TV stage.
+- **Always-On QR Overlay**: Late arrivals can scan the corner QR code and jump into the rotation at any point during the party.
+- **Smart Stage Polish**: Automatic mouse cursor hiding and Windows sleep prevention ensure your TV screen stays clean and never goes dark mid-party.
 
 ### 👑 Private Host DJ Desk (Untethered on Your Phone or Laptop)
-- **Roam the Party**: Run the entire show from your smartphone while mingling with guests.
+- **Roam the Party**: Run the entire show from your smartphone while enjoying a drink and mingling with your guests.
 - **Live Queue Moderation**: Reorder, pause, restart, or skip tracks on the fly.
 - **Live Stage Microphone & Mixing**: Hardware mic input selector, master mic toggle, warm plate room reverb, and automatic between-song ducking.
 - **Studio Soundboard**: Instant live crowd sound effects (Airhorn, Applause, Rimshot, Tropical Bird).
 - **Venue A/V Delay Calibration**: Direct steppers and presets (`Direct 0ms`, `TV Lag +80ms`, `Projector +140ms`, `Bluetooth -150ms`) to eliminate HDMI audio delay.
 
 ### 🎬 Intelligent Intermission Autopilot
-- **Never Dead Silence**: When the queue runs empty, Tiki Karaoke keeps the party energy alive automatically.
+- **Never Dead Silence**: When the singer queue runs empty, Tiki Karaoke keeps the party energy alive automatically.
 - **🎤 Sing-Along Autopilot**: Automatically plays popular crowd sing-along videos with guide vocals.
 - **📼 Music Video Filler**: Rotates official music videos from your local crate.
 - **🌴 Procedural Synth BGM**: Built-in ambient tropical synthwave tracks with intelligent ducking.
@@ -59,12 +60,23 @@
 - Transpose any song **±6 semitones** in real time using high-fidelity Web Audio DSP.
 - Perfect for singers looking to match their natural vocal range without altering playback speed.
 
+### 🪟 Windows Desktop Control Hub & Tray Manager
+- **Turnkey Control Hub**: Dedicated Windows launcher with real-time status indicators, automated health checks, and single-click start/stop.
+- **System Tray Integration**: Minimize to the Windows notification tray; right-click anytime to open the stage, copy the singer join URL, or configure audio.
+- **TV Sleep Prevention**: Automatically prevents Windows screensavers, screen dimming, and sleep while your party is running.
+- **High-DPI Scaling**: Crisp, native rendering on 1080p, 1440p, and 4K living room displays.
+
+### 🧹 Smart Library Importer & CompuHost Migrator (TikiIQ)
+- **YouTube Noise Stripper**: Automatically strips clutter from downloaded files—cleaning video resolutions (`[1080p]`, `[4K]`), 11-character video IDs (`[4ahHWROn8M0]`), and tags like `(Karaoke Version)` or `Official Lyric Video`.
+- **iTunes Metadata Autocorrect**: Zero-auth query automatically fixes inverted `Title - Artist` filenames and enriches tracks with official **Release Years** and **Genres**.
+- **CompuHost Migration Wizard**: Decodes legacy Clarion TopSpeed (`SongList.tps` and `.ciqbackup`) databases directly in pure Python with zero dependencies—verifying physical files on disk and remapping drive letters automatically.
+
 ---
 
 ## 📸 Screenshots & Showcase
 
 ### 1. Main Stage TV Display (1080p)
-*Cinematic full-screen lyrics with Up Next tickers and crowd hype reactions.*
+*Cinematic full-screen lyrics with Up Next tickers, animated singer announcements, and floating crowd hype reactions.*
 <p align="center">
   <img src="assets/screenshot_stage_1080p.png" alt="Tiki Karaoke Main Stage Display" width="100%">
 </p>
@@ -76,7 +88,7 @@
 </p>
 
 ### 3. Master Host DJ Controls (Stationary Laptop + Roaming Mobile)
-*Full stationary command desk at the DJ booth, or untethered 3-way mobile control from any phone.*
+*Full stationary command desk at the laptop, or untethered roaming mobile control from any smartphone.*
 <p align="center">
   <img src="assets/screenshot_host_desk_1080p.png" alt="Host DJ Controls Showcase" width="100%">
 </p>
@@ -85,29 +97,31 @@
 
 ## 📦 Download Packages Available on itch.io
 
-Every purchase grants lifetime access to standalone packages:
+Every purchase grants lifetime access to standalone, DRM-free packages:
 
 | Platform | Format | Description |
 | :--- | :--- | :--- |
-| **Windows** | `TikiKaraokeSetup-v1.0.0.exe` | One-click turnkey installer with Desktop and Start Menu shortcuts. |
-| **Windows** | `TikiKaraoke-Windows-v1.0.0-Portable.zip` | 100% portable zero-install edition. Run from a USB stick on any PC without admin rights. |
-| **Linux** | `TikiKaraoke-v1.0.0-x86_64.AppImage` | Universal single-file AppImage. Click-and-run on Ubuntu, Debian, Mint, Fedora, Arch, and SteamOS. |
+| **Windows** | `TikiKaraokeSetup-v1.0.3.exe` | Turnkey Windows installer with Desktop & Start Menu shortcuts, Control Hub, and tray manager. |
+| **Windows** | `TikiKaraoke-Windows-v1.0.3-Portable.zip` | 100% portable zero-install edition. Run directly from a USB stick or external drive on any PC. |
+| **Linux** | `TikiKaraoke-v1.0.3-x86_64.AppImage` | Universal single-file AppImage. Click-and-run on Ubuntu, Debian, Mint, Fedora, Arch, and SteamOS (Steam Deck). |
+| **Companion** | `TikiKaraokeImporter` (`.exe` / `.AppImage`) | Zero-bloat standalone library sanitizer, YouTube cleaner, and CompuHost `.tps` migration wizard. |
 
 ---
 
-## 🏢 Commercial & Venue Ready
+## 🏠 Built for Living Rooms, Game Nights & Backyard Luaus
 
-Tiki Karaoke Lounge includes a **Perpetual Single-Seat Commercial License** with every purchase:
-- **Commercial Mode Killswitch**: Disables online downloaders and locks search strictly to your legally acquired local songbook.
-- **In-App Rights & Compliance Directory (`/legal`)**: Comprehensive guidance on authorized karaoke track vendors and PRO licensing (ASCAP, BMI, SESAC, PRS, SOCAN).
-- **Zero Recurring Fees**: Run bar nights, weddings, private lounges, and mobile DJ gigs without monthly software subscriptions.
+Tiki Karaoke Lounge is engineered specifically for private home entertainment and family gatherings:
+- **100% Private & Local**: Runs entirely over your local home Wi-Fi network. No cloud accounts, no subscriptions, and zero tracking.
+- **Curated Offline Library Mode**: Optional downloader lock restricts requests strictly to your personal media collection—perfect for remote cabin getaways or keeping the song selection family-friendly.
+- **Multi-Format Bring Your Own Media (BYOM)**: Works out of the box with your existing video karaoke files (`.mp4`, `.mkv`, `.webm`), CDG+MP3 pairs, and ZIP archives.
+- **Zero Recurring Costs**: Own your karaoke entertainment forever without monthly software subscriptions or seat licensing fees.
 
 ---
 
-## ⚖️ Legal Disclaimer
+## ⚖️ Disclaimer
 
 > **Bring Your Own Media (BYOM) Architecture**:  
-> Tiki Karaoke Lounge is an independent local media player and event hosting utility. It does not contain, host, sell, or distribute copyrighted sound recordings, musical compositions, or synchronized karaoke media. End users and venue operators are responsible for supplying their own legally acquired media files and maintaining applicable public performance licenses for commercial venue use.
+> Tiki Karaoke Lounge is an independent local media player and party coordination utility designed for personal home recreation. It does not contain, host, sell, or distribute copyrighted sound recordings, musical compositions, or synchronized karaoke media. Users are responsible for supplying their own legally acquired media files.
 
 ---
 
