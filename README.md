@@ -7,24 +7,48 @@
 
 <p align="center">
   <a href="https://todd0042.itch.io/tiki-karaoke-lounge">
-    <img src="https://img.shields.io/badge/itch.io-GET_IT_ON_ITCH.IO-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Available on itch.io">
+    <img src="https://img.shields.io/badge/itch.io-GET_PRO_ON_ITCH.IO-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Available on itch.io">
+  </a>
+  <a href="https://github.com/Todd0042/tiki-karaoke-lounge/releases">
+    <img src="https://img.shields.io/badge/GitHub-FREE_DOWNLOADS-39ff14?style=for-the-badge&logo=github&logoColor=white" alt="Free Downloads on GitHub">
   </a>
   <img src="https://img.shields.io/badge/Platform-Windows_%7C_Linux_%7C_SteamDeck-00f0ff?style=for-the-badge" alt="Platforms">
-  <img src="https://img.shields.io/badge/Version-v1.0.3-39ff14?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/Edition-Home_%26_Party-ff2a85?style=for-the-badge" alt="Edition">
+  <img src="https://img.shields.io/badge/Version-v1.0.4-ffd166?style=for-the-badge" alt="Version">
 </p>
 
 <p align="center">
   <strong>Transform any TV and living room into a high-energy retro tiki karaoke lounge in seconds!</strong><br>
-  No subscriptions. No clunky software. No awkward dead silence between songs.<br>
+  No clunky software. No awkward dead silence between songs.<br>
   Plug your PC or handheld into your TV, have everyone scan the QR code with their phones, and sing!
 </p>
 
 <p align="center">
+  <a href="https://github.com/Todd0042/tiki-karaoke-lounge/releases">
+    <strong>⬇️ Download Free Edition (GitHub Releases)</strong>
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
   <a href="https://todd0042.itch.io/tiki-karaoke-lounge">
-    <strong>👉 Click Here to Get Tiki Karaoke Lounge on itch.io 👈</strong>
+    <strong>🌴 Upgrade to Pro ($9.99 on itch.io - 100% Ad-Free &amp; Offline)</strong>
   </a>
 </p>
+
+---
+
+## 🍹 Free vs. Pro Edition Comparison
+
+| Feature | 🆓 Free Edition (GitHub Releases) | 🌴 Pro Edition (itch.io - $9.99) |
+| :--- | :---: | :---: |
+| **Price** | **Free Forever** | **$9.99 (One-Time Purchase)** |
+| **Sponsor Ads** | Bottom 728x90 Banner + 15s Break | **Zero Ads • 100% Pure** |
+| **100% Offline Mode** | Internet Required for Ads | **Full Offline (Boats, Cabins, Camping)** |
+| **Commercial License** | Personal Use | **Commercial Single-Seat Perpetual EULA** |
+| **Dual-Display TV Stage** | ✅ Included | ✅ Included |
+| **Mobile Singer Queue (Zero App)** | ✅ Included | ✅ Included |
+| **Host DJ Remote (Phone / PC)** | ✅ Included | ✅ Included |
+| **Live Performance Recording** | ✅ Included | ✅ Included |
+| **Intermission Autopilot & Ducking** | ✅ Included | ✅ Included |
+| **±6 Semitone Pitch Shifter** | ✅ Included | ✅ Included |
+| **Platform Support** | Windows &amp; Linux (Steam Deck) | Windows &amp; Linux (Steam Deck) |
 
 ---
 
@@ -34,14 +58,15 @@
 - **Zero Friction**: Guests scan the on-screen TV QR code with their phone cameras.
 - **Instant Web App**: Runs directly in any mobile browser (Safari, Chrome, Edge) with no App Store or Google Play downloads required.
 - **Custom Singer Profiles**: Guests pick a tropical avatar (🌺, 🌴, 🍹, 🦜, 🏄) and enter their nickname.
-- **Smart Queueing**: Search downloaded songs, request duets, adjust pitch/key, and see live queue position in real time.
+- **Smart Queueing**: Search downloaded songs, request duets, adjust pitch/key (&plusmn;6 semitones), and see live queue position in real time.
+- **🎙️ Live Performance Recording**: Singers can listen to and download high-quality audio recordings of their own performances directly to their smartphones!
 
 ### 📺 Cinematic Dual-Display TV Stage
 - **Automatic HDMI Detection**: Connect your TV or projector; Tiki Karaoke automatically detects secondary screens and launches full-screen borderless (`F11`).
 - **Synchronized Scrolling Lyrics**: High-contrast, crystal-clear lyrics styled with vibrant retro neon tiki aesthetics.
 - **Crowd Hype Reactions**: Guests tap emojis (🔥, 🍹, 🌴, 👏, 🌺, 🍻) on their phones that float live across the main TV stage.
 - **Always-On QR Overlay**: Late arrivals can scan the corner QR code and jump into the rotation at any point during the party.
-- **Smart Stage Polish**: Automatic mouse cursor hiding and Windows sleep prevention ensure your TV screen stays clean and never goes dark mid-party.
+- **Smart Stage Polish**: Automatic mouse cursor hiding and screensaver/sleep prevention ensure your TV screen stays clean and never goes dark mid-party.
 
 ### 👑 Private Host Desk (Untethered on Your Phone or Laptop)
 - **Roam the Party**: Run the entire show from your smartphone while enjoying a drink and mingling with your guests.
@@ -57,13 +82,11 @@
 - **🌴 Procedural Synth BGM**: Built-in ambient tropical synthwave tracks with intelligent ducking.
 
 ### 🎛️ Real-Time Pitch & Key Shifting
-- Transpose any song **±6 semitones** in real time using high-fidelity Web Audio DSP.
-- Perfect for singers looking to match their natural vocal range without altering playback speed.
+- Transpose any song **±6 semitones** in real time using high-fidelity Web Audio DSP to match every singer's vocal range.
 
-### 🪟 Windows Desktop Control Hub & Tray Manager
-- **Turnkey Control Hub**: Dedicated Windows launcher with real-time status indicators, automated health checks, and single-click start/stop.
-- **System Tray Integration**: Minimize to the Windows notification tray; right-click anytime to open the stage, copy the singer join URL, or configure audio.
-- **TV Sleep Prevention**: Automatically prevents Windows screensavers, screen dimming, and sleep while your party is running.
+### 🪟 Desktop Control Hub & Native System Tray
+- **Turnkey Control Hub**: Dedicated desktop launcher with real-time status indicators, dual scannable QR codes, automated health checks, and single-click start/stop.
+- **System Tray Integration**: Native tray icon and menu for Windows and Linux (Wayland / KDE / GNOME StatusNotifierItem & X11).
 - **High-DPI Scaling**: Crisp, native rendering on 1080p, 1440p, and 4K living room displays.
 
 ### 🧹 Smart Library Importer & CompuHost Migrator (TikiIQ)
@@ -95,16 +118,20 @@
 
 ---
 
-## 📦 Download Packages Available on itch.io
+## 📦 Downloads & Packages (v1.0.4)
 
-Every purchase grants lifetime access to standalone, DRM-free packages:
-
-| Platform | Format | Description |
+### 🆓 Free Edition (Ad-Supported) &mdash; [Download on GitHub Releases](https://github.com/Todd0042/tiki-karaoke-lounge/releases)
+| Platform | Binary | Description |
 | :--- | :--- | :--- |
-| **Windows** | `TikiKaraokeSetup-v1.0.3.exe` | Turnkey Windows installer with Desktop & Start Menu shortcuts, Control Hub, and tray manager. |
-| **Windows** | `TikiKaraoke-Windows-v1.0.3-Portable.zip` | 100% portable zero-install edition. Run directly from a USB stick or external drive on any PC. |
-| **Linux** | `TikiKaraoke-v1.0.3-x86_64.AppImage` | Universal single-file AppImage. Click-and-run on Ubuntu, Debian, Mint, Fedora, Arch, and SteamOS (Steam Deck). |
-| **Companion** | `TikiKaraokeImporter` (`.exe` / `.AppImage`) | Zero-bloat standalone library sanitizer, YouTube cleaner, and CompuHost `.tps` migration wizard. |
+| **Windows** | `TikiKaraokeSetup-Free-v1.0.4.exe` | Turnkey Windows installer with Desktop & Start Menu shortcuts, Control Hub, and tray manager. |
+| **Linux** | `TikiKaraoke-Free-v1.0.4-x86_64.AppImage` | Universal single-file AppImage. Click-and-run on Ubuntu, Debian, Mint, Fedora, Arch, and SteamOS (Steam Deck). |
+
+### 🌴 Pro Edition (100% Ad-Free & Offline) &mdash; [Get it on itch.io ($9.99)](https://todd0042.itch.io/tiki-karaoke-lounge)
+| Platform | Binary | Description |
+| :--- | :--- | :--- |
+| **Windows** | `TikiKaraokeSetup-v1.0.4.exe` | Pro Windows installer. Zero ads, 100% offline party mode, commercial license included. |
+| **Linux** | `TikiKaraoke-v1.0.4-x86_64.AppImage` | Pro universal Linux AppImage. Zero ads, 100% offline party mode, commercial license included. |
+| **Companion** | `TikiKaraokeImporter` (`.exe` / `.AppImage`) | Bundled standalone library sanitizer, YouTube cleaner, and CompuHost `.tps` migration wizard. |
 
 ---
 
@@ -127,5 +154,6 @@ Tiki Karaoke Lounge is engineered specifically for private home entertainment an
 
 ## 🔗 Official Links & Community
 
-- 🛒 **Storefront & Downloads**: [https://todd0042.itch.io/tiki-karaoke-lounge](https://todd0042.itch.io/tiki-karaoke-lounge)
+- 🛒 **itch.io Pro Storefront**: [https://todd0042.itch.io/tiki-karaoke-lounge](https://todd0042.itch.io/tiki-karaoke-lounge)
+- 🆓 **GitHub Free Releases**: [https://github.com/Todd0042/tiki-karaoke-lounge/releases](https://github.com/Todd0042/tiki-karaoke-lounge/releases)
 - 🌴 **Developed by**: [Todd0042](https://github.com/Todd0042)
