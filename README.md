@@ -41,7 +41,6 @@
 | **Price** | **Free** | **$9.99 (One-Time Purchase)** |
 | **Sponsor Ads** | Bottom 728x90 Banner + 15s Break | **Zero Ads • 100% Pure** |
 | **100% Offline Mode** | Internet Required for Ads | **Full Offline (Boats, Cabins, Camping)** |
-| **Commercial License** | Personal Use | **Commercial Single-Seat Perpetual EULA** |
 | **Dual-Display TV Stage** | ✅ Included | ✅ Included |
 | **Mobile Singer Queue (Zero App)** | ✅ Included | ✅ Included |
 | **Host DJ Remote (Phone / PC)** | ✅ Included | ✅ Included |
@@ -129,8 +128,8 @@
 ### 🌴 Pro Edition (100% Ad-Free & Offline) &mdash; [Get it on itch.io ($9.99)](https://todd0042.itch.io/tiki-karaoke-lounge)
 | Platform | Binary | Description |
 | :--- | :--- | :--- |
-| **Windows** | `TikiKaraokeSetup-v1.0.4.exe` | Pro Windows installer. Zero ads, 100% offline party mode, commercial license included. |
-| **Linux** | `TikiKaraoke-v1.0.4-x86_64.AppImage` | Pro universal Linux AppImage. Zero ads, 100% offline party mode, commercial license included. |
+| **Windows** | `TikiKaraokeSetup-v1.0.4.exe` | Pro Windows installer. Zero ads, 100% offline party mode for home & private events. |
+| **Linux** | `TikiKaraoke-v1.0.4-x86_64.AppImage` | Pro universal Linux AppImage. Zero ads, 100% offline party mode for home & private events. |
 | **Companion** | `TikiKaraokeImporter` (`.exe` / `.AppImage`) | Bundled standalone library sanitizer, YouTube cleaner, and CompuHost `.tps` migration wizard. |
 
 ---
