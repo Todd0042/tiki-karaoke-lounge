@@ -43,7 +43,7 @@
 - **Always-On QR Overlay**: Late arrivals can scan the corner QR code and jump into the rotation at any point during the party.
 - **Smart Stage Polish**: Automatic mouse cursor hiding and Windows sleep prevention ensure your TV screen stays clean and never goes dark mid-party.
 
-### 👑 Private Host DJ Desk (Untethered on Your Phone or Laptop)
+### 👑 Private Host Desk (Untethered on Your Phone or Laptop)
 - **Roam the Party**: Run the entire show from your smartphone while enjoying a drink and mingling with your guests.
 - **Live Queue Moderation**: Reorder, pause, restart, or skip tracks on the fly.
 - **Live Stage Microphone & Mixing**: Hardware mic input selector, master mic toggle, warm plate room reverb, and automatic between-song ducking.
