@@ -38,7 +38,7 @@
 
 | Feature | 🆓 Free Edition (GitHub Releases) | 🌴 Pro Edition (itch.io - $9.99) |
 | :--- | :---: | :---: |
-| **Price** | **Free Forever** | **$9.99 (One-Time Purchase)** |
+| **Price** | **Free** | **$9.99 (One-Time Purchase)** |
 | **Sponsor Ads** | Bottom 728x90 Banner + 15s Break | **Zero Ads • 100% Pure** |
 | **100% Offline Mode** | Internet Required for Ads | **Full Offline (Boats, Cabins, Camping)** |
 | **Commercial License** | Personal Use | **Commercial Single-Seat Perpetual EULA** |
@@ -141,7 +141,7 @@ Tiki Karaoke Lounge is engineered specifically for private home entertainment an
 - **100% Private & Local**: Runs entirely over your local home Wi-Fi network. No cloud accounts, no subscriptions, and zero tracking.
 - **Curated Offline Library Mode**: Optional downloader lock restricts requests strictly to your personal media collection—perfect for remote cabin getaways or keeping the song selection family-friendly.
 - **Multi-Format Bring Your Own Media (BYOM)**: Works out of the box with your existing video karaoke files (`.mp4`, `.mkv`, `.webm`), CDG+MP3 pairs, and ZIP archives.
-- **Zero Recurring Costs**: Own your karaoke entertainment forever without monthly software subscriptions or seat licensing fees.
+- **Zero Recurring Costs**: Enjoy karaoke entertainment without monthly software subscriptions or recurring seat licensing fees.
 
 ---
 
